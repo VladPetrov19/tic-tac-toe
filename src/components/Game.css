@@ -1,0 +1,21 @@
+.wrapper {
+    min-height: 100vh;
+    width: 100%;
+    background-color: #6a6292;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.score {
+    margin-bottom: 180px ;
+    margin-left: 20px;
+    font-size: 30px;
+    color: seashell;
+    font-weight: bold;
+}
+
+.now {
+    color: honeydew;
+}
+
